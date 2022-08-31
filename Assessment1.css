@@ -1,0 +1,28 @@
+﻿title {
+    font-family: 'Bookman Old Style'
+}
+    h1{
+    color:chartreuse
+}
+.btn {
+    border: none;
+    background-color: brown;
+    padding: 16px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: ruby-base;
+}
+    /* On mouse-over */
+    .btn:hover {
+        background: #eee;
+    }
+
+.Visual {
+    color: whitesmoke;
+}
+
+.Auditory {
+    color: whitesmoke;
+}
+   
+
